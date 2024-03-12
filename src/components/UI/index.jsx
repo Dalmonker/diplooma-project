@@ -1,3 +1,3 @@
-import { Block, Wrapper } from "./Block";
+import { Block, MainBlock } from "./Block";
 
-export { Block, Wrapper };
+export { Block, MainBlock };

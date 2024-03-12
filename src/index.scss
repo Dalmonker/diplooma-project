@@ -1,0 +1,25 @@
+@use "modern-normalize";
+
+h5 {
+  margin: 0;
+}
+
+main {
+  background-color: #eeeaea;
+}
+
+.nav-title:hover {
+  cursor: pointer;
+}
+
+aside::-webkit-scrollbar {
+  width: 6px;
+}
+
+aside::-webkit-scrollbar-track {
+  background-color: #38444d;
+}
+
+aside::-webkit-scrollbar-thumb {
+  background-color: #777;
+}
